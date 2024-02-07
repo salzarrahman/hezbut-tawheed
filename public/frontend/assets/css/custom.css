@@ -1,0 +1,35 @@
+   /* ==========================================================================
+      Start of custom  CSS
+      ========================================================================== */
+
+
+/* footer subscribe input button */
+
+
+
+.successmessage{
+    margin: 10px;
+    padding: 10px;
+}
+
+.message{
+    margin: 10px;
+    padding: 10px;
+    color: #ff0044;
+}
+
+/* Ask about us form movement*/
+
+.custom-form-input-field {
+    margin: 10px 0;
+}
+.custom-w-input {
+    min-height: 120px;
+}
+.custom-submit-button {
+    min-height: 0px;
+    min-width: 100%;
+    justify-content: center;
+}
+
+/* end Ask about us form movement*/
