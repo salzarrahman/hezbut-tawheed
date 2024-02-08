@@ -1,25 +1,25 @@
 <?php
 
 return [
-    'contact_info'         => 'Contact info',
-    'head_quater'          => 'Head Quater',
+    'contact_info'         => 'Contact Us',
+    'head_quater'          => 'Address',
     'web_info'             => 'Web info',
     'phone_number'         => 'Phone no',
     'email'                 => 'Email',
-    'nevigation'           => 'Nevigation',
-    'important'            => 'Important',
+    'nevigation'           => 'Important Links',
+    'important'            => 'Activities',
     'newsletter'           => 'NEWSLETTER',
-    'inbox'                => 'Get latest Updates directly in inbox',
+    'inbox'                => 'Subscribe for Exclusive Insights and Updates!',
     'subscribe'            => 'Subscribe',
     'read_more'            => 'Read more',
-    'join_our_movement'    => 'Join Our Movement',
-    'join_our_description' => 'To make sure all Citizen rights, you have to work together and make better country for our child. So we have to take initiative proper',
+    'join_our_movement'    => 'Our Wrok',
+    'join_our_description' => 'We are dedicated to elevating communities, empowering individuals, and nurturing sustainable development for an enhanced overall well-being.',
     'abilities'            =>'Our Abilities',
-    'abilities_description'=>'To make sure all Citizen rights, you have to work together and make a better country for our child. So we have to take initiative proper way to ensure the all right and make the country better for living',
+    'abilities_description'=>'We are dedicated to elevating communities, empowering individuals, and nurturing sustainable development for an enhanced overall well-being.',
     'campaign'              =>'Campaign',
-    'campaign_de'           =>'To make sure all Citizen rights, you have to work together and make better country for our child. So we have to take initiative proper',
-    'blog_post'             =>'Latest Blog Post',
-    'blog_post_dis'         =>'To make sure all Citizen rights, you have to work together and make better country for our child. So we have to take initiative proper',
+    'campaign_de'           =>'We are dedicated to elevating communities, empowering individuals, and nurturing sustainable development for an enhanced overall well-being.',
+    'blog_post'             =>'Latest Post',
+    'blog_post_dis'         =>'We are dedicated to elevating communities, empowering individuals, and nurturing sustainable development for an enhanced overall well-being.',
     'time'                  =>'Time :',
     'venue'                 =>'Venue :',
     'related_campaign'      =>'Related Campaign',
@@ -29,7 +29,7 @@ return [
     'related_post'          =>'Related Post',
     'category'              =>'Category :',
     'ask_about_us'          =>'Ask about us',
-    'ask_about_us_description'     =>'To make sure all Citizen rights, you have to work together and make better country for our child. So we have to take initiative proper',
+    'ask_about_us_description'     =>'We are dedicated to elevating communities, empowering individuals, and nurturing sustainable development for an enhanced overall well-being.',
     'all'                   =>'All',
     'arabic'                =>'Arabic',
     'hindi'                 =>'Hindi Campaign',
@@ -42,6 +42,5 @@ return [
     'attack_on'             =>'Attack on',
     'address'               =>'Address',
     'movement_career'       =>'Movement Career',
-
-
+    
 ];
